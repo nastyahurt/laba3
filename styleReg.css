@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Rosario:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Rosario', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+body {
+    width: 1680px;
+    height: 900px;
+    
+    background: #EFEFEF;
+}
+
+header {
+    width: 1680px;
+    height: 70px;  
+    display: flex;
+    align-items: center;
+    
+
+    background: #ECAD73;  
+}
+
+.header__button1 {
+    padding-left: 50px;
+
+    width: 100px;
+    height: 30px;
+    background: #ECAD73;
+    cursor: pointer;
+    border: none;
+
+    width: 100px;
+    height: 22px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    margin-right: 40px;
+    margin-left: 15px;
+
+    color: #FFFFFF;    
+}
+
+.header__button2 {
+    width: 150px;
+    height: 30px;
+    background: #ECAD73;
+    cursor: pointer;
+    border: none;
+
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    margin-right: 375px;
+
+    color: #FFFFFF;
+}
+
+.header__h1 {
+    padding-left: 50px;
+
+    width: 202px;
+    height: 41px;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 41px;
+    margin-right: 385px;
+    
+    color: #FFFFFF;    
+}
+
+section {
+    padding-top: 120px;
+    padding-left: 570px;
+    padding-bottom: 120px;
+}
+
+.section__div {
+    width: 500px;
+    height: 400px;
+    align-items: center;
+    background: #E1E1E1;
+    border-radius: 15px;
+}
+
+h2 {
+    padding-left: 165px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+h3 {
+    padding-left: 50px;
+    padding-bottom: 15px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 22px;
+
+    color: #000000;    
+}
+
+.input1 {
+    width: 260px;
+    height: 25px;
+    margin-left: 80px;
+    background: #EFEFEF;
+    border-radius: 15px;
+    border: none;
+}
+
+.input2 {
+    width: 260px;
+    height: 25px;
+    margin-left: 30px;
+    background: #EFEFEF;
+    border-radius: 15px;
+    border: none;
+}
+
+.input3 {
+    width: 260px;
+    height: 25px;
+    margin-left: 30px;
+    background: #EFEFEF;
+    border-radius: 15px;
+    border: none;
+}
+
+.input4 {
+    width: 260px;
+    height: 25px;
+    margin-left: 50px;
+    background: #EFEFEF;
+    border-radius: 15px;
+    border: none;
+}
+
+.section__div2 {
+    padding-left: 140px;
+}
+
+.div__button{
+    width: 220px;
+    height: 40px;
+    background: #ECAD73;
+    cursor: pointer;
+    border: none;
+    border-radius: 15px;
+
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+    
+}
+
+footer {
+    width: 1680px;
+    height: 230px;
+    background: #464646;
+}
+
+.footer__button1 {
+    padding-left: 65px;
+    padding-top: 25px;
+    padding-bottom: 60px;
+
+    width: 170px;
+    height: 30px;
+    background: #464646;
+    cursor: pointer;
+    border: none;
+
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 29px;
+  
+    color: #ECAD73;
+}
+
+.footer__button2 {
+    padding-left: 60px;
+    padding-bottom: 40px;
+
+    width: 170px;
+    height: 30px;
+    background: #464646;
+    cursor: pointer;
+    border: none;
+
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 29px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.footer__p {
+    padding-right: 60px;
+    padding-top: 15px;
+
+    font-weight: bold;
+    font-size: 9px;
+    line-height: 11px;
+    text-align: right;
+    
+    color: #9B9898;
+    
+}
